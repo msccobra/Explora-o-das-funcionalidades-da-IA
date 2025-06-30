@@ -49,7 +49,7 @@ if __name__ == "__main__":
     main()
 
 ```
-## Tradução e mudança de tom em textos (Grok)
+## Tradução e mudança de tom em textos (Grok 3)
 
 Para esse exemplo, usarei o abstract da minha tese de doutorado, pois trata-se de uma linguagem acadêmica bastante formal. Pedirei ao Grok para traduzir o texto e deixá-lo em uma linguagem informal. Também estou curioso para ver o resultado.
 
@@ -162,3 +162,15 @@ Algumas partes foram revisadas para evitar formalidades excessivas. Por exemplo,
 
 #### Conclusão
 A tradução final reflete o conteúdo original de forma clara e acessível, com linguagem ajustada para facilitar a inteligibilidade. O processo incluiu a identificação de termos técnicos, tradução frase por frase e ajustes para informalidade, garantindo que o resumo seja compreensível para um público mais amplo, enquanto mantém a essência científica do trabalho. A tabela acima resume os termos-chave traduzidos, e o texto final está pronto para uso, conforme solicitado.
+
+## Criação de figuras (Microsoft Copilot)
+
+Para essa tarefa, tentarei ser bastante criativo e pedidei ao Microsoft Copilot, já instalado no W11, a criação de um quadro surrealista, seguindo o estilo de Salvador Dalí. Eu fui bastante detalhado no prompt e dei idéias que são presentes na obra de Dalí, de quem sou fã.
+
+### O prompt usado
+
+Crie um quadro surrealista, ao estilo de Salvador Dalí, que contenha um elefante alado com pernas longas, que tenha um cenário desértico escarpado, como o Grand Canyon, algumas árvores secas com relógios derretidos e um céu de tempestade, mas com um brilho forte emanando por entre as nuvens.
+
+O resultado foi o seguinte:
+
+![quadro](https://github.com/msccobra/Explora-o-das-funcionalidades-da-IA/blob/Images/Crie%20um%20quadro%20surre.png)
