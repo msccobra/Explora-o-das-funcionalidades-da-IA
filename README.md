@@ -171,6 +171,234 @@ Para essa tarefa, tentarei ser bastante criativo e pedidei ao Microsoft Copilot,
 
 Crie um quadro surrealista, ao estilo de Salvador Dalí, que contenha um elefante alado com pernas longas, que tenha um cenário desértico escarpado, como o Grand Canyon, algumas árvores secas com relógios derretidos e um céu de tempestade, mas com um brilho forte emanando por entre as nuvens.
 
-O resultado foi o seguinte:
+Ficou compatível com a temática Dalí, muito bom, mas não é um puro-sangue, longe disso. O resultado foi o seguinte:
 
 ![quadro](https://github.com/msccobra/Explora-o-das-funcionalidades-da-IA/blob/Images/Crie%20um%20quadro%20surre.png)
+
+## Análise de sentimento (Claude Sonnet 4)
+
+Para esse trecho, pegarei alguns comentários de notícias em grandes portais e pedirei que a IA faça uma análise de sentimento deles.
+
+### Caso 1 ([Derrota do Flamengo por 4 a 2 no Mundial de clubes para o Bayern München](https://www.uol.com.br/esporte/futebol/ultimas-noticias/2025/06/29/flamengo-x-bayern-de-munique---mundial-de-clubes.htm))
+
+A IA leu a imagem que está no [link](https://github.com/msccobra/Explora-o-das-funcionalidades-da-IA/blob/Images/C1.jpg), e fez a análise de sentimento. O resultado foi colado, sem edições.
+
+#### Análise de Sentimento dos Comentários
+
+Este documento apresenta a análise de sentimento de comentários extraídos de uma postagem em rede social.
+
+#### Metodologia
+
+A análise foi realizada identificando palavras-chave, tom emocional e contexto de cada comentário, classificando os sentimentos em uma escala de positivo a negativo.
+
+#### Comentários Analisados
+
+##### 1. Pedro Berrettini Jr
+**Comentário:** "Cadê a soberba ?? Chora Mauro Cesar. Chora RMP. kkkkk"
+
+- **Sentimento:** Negativo/Crítico
+- **Indicadores:**
+  - Uso de expressões depreciativas ("Cadê a soberba")
+  - Tom de zombaria com "kkkkk"
+  - Direcionamento crítico a pessoas específicas
+- **Intensidade:** Moderada
+
+##### 2. Luis Marcelo Inaco Cirino
+**Comentário:** "Não consigo parar de rir. O Felipe Luiz era o novo Guardiola para a imprensa."
+
+- **Sentimento:** Negativo/Desapontado
+- **Indicadores:**
+  - Ironia evidente ("não consigo parar de rir")
+  - Crítica indireta ao desempenho
+  - Sarcasmo sobre expectativas da imprensa
+- **Intensidade:** Moderada
+
+##### 3. Ivan Leite Albanese
+**Comentário:** "Quartas de final do Primeiro Mundial de verdade é apenas para Gigantes. Tchau Cheirinho. Avanti Palestra!"
+
+- **Sentimento:** Negativo/Provocativo
+- **Indicadores:**
+  - Diminuição da conquista ("apenas para Gigantes")
+  - Provocação direta ("Tchau Cheirinho")
+  - Tom de rivalidade esportiva
+- **Intensidade:** Moderada a Alta
+
+##### 4. Marcos Silva
+**Comentário:** "Volte pra casa Varmengo mediocre!!! Quando não tem influência da Grobo, VAR ou crime organizado, este time fica medíocre. Harry Kane mandou 2 abraços kkkkkkkkkk"
+
+- **Sentimento:** Muito Negativo/Revoltado
+- **Indicadores:**
+  - Linguagem agressiva ("mediocre", "Varmengo")
+  - Acusações graves (crime organizado)
+  - Frustração evidente com arbitragem
+  - Uso excessivo de "k" indicando deboche
+- **Intensidade:** Muito Alta
+
+##### 5. Eduardo Lima de Moraes
+**Comentário:** "Os Flamimimengos esqueceram que: se é Bayer, é bom."
+
+- **Sentimento:** Negativo/Sarcástico
+- **Indicadores:**
+  - Uso de termo pejorativo ("Flamimimengos")
+  - Ironia sobre a qualidade do adversário
+  - Tom de desdém disfarçado
+- **Intensidade:** Moderada
+
+### Resumo da Análise
+
+#### Distribuição de Sentimentos
+- **Negativos:** 5 comentários (100%)
+- **Neutros:** 0 comentários (0%)
+- **Positivos:** 0 comentários (0%)
+
+#### Características Gerais
+- **Contexto:** Aparenta ser sobre evento esportivo (futebol)
+- **Tons predominantes:** Sarcasmo, provocação, frustração
+- **Alvos das críticas:** Jogadores, técnicos, arbitragem, imprensa
+- **Indicadores de rivalidade:** Presença de apelidos pejorativos e provocações entre torcidas
+
+#### Palavras-chave Identificadas
+- **Negativas:** mediocre, soberba, crime organizado
+- **Sarcásticas:** kkkkk, Flamimimengos, Varmengo
+- **Provocativas:** Tchau, Chora, Avanti Palestra
+
+### Conclusão
+
+Todos os comentários analisados apresentam sentimento predominantemente negativo, variando entre crítica construtiva, sarcasmo, provocação e revolta. O contexto sugere reações a um resultado esportivo desfavorável, com torcedores expressando frustração através de diferentes níveis de negatividade e rivalidade típica do ambiente futebolístico brasileiro.
+
+---
+
+*Análise realizada através de processamento de linguagem natural e identificação de padrões emocionais em texto.*
+
+## Caso 2 ([Brasileira não regatada em vulcão](https://noticias.uol.com.br/internacional/ultimas-noticias/2025/06/29/vaquinha-agam-rinjani-cancelada.htm)
+
+A IA leu a [imagem](https://github.com/msccobra/Explora-o-das-funcionalidades-da-IA/blob/Images/C2.png) para fazer a análise a seguir:
+
+### Análise de Sentimento - Comentários sobre VOOA
+
+Este documento apresenta a análise de sentimento de comentários relacionados à empresa VOOA e uma situação envolvendo voluntário e taxas de serviço.
+
+#### Metodologia
+
+A análise foi realizada identificando palavras-chave, tom emocional e contexto de cada comentário, classificando os sentimentos em uma escala de positivo a negativo.
+
+#### Comentários Analisados
+
+##### 1. Júlio Pereira
+**Comentário:** "Preferem não dar nada para o voluntário a abrir mão da taxa absurda que estão cobrando? Isso mostra que são parasitas e que não merecem respeito e muito menos confiança."
+
+- **Sentimento:** Muito Negativo/Indignado
+- **Indicadores:**
+  - Linguagem extremamente ofensiva ("parasitas")
+  - Crítica direta à política de preços ("taxa absurda")
+  - Questionamento moral da empresa
+  - Perda total de confiança
+  - Tom de indignação e revolta
+- **Intensidade:** Muito Alta
+- **Aspectos criticados:** Política de preços, tratamento ao voluntário, caráter da empresa
+
+##### 2. Luiz Carlos Amorim
+**Comentário:** "Sabemos que de graça nem injeção na testa, mas cobrar 20% também é exagero, a Voaa precisa ajustar seu negócio."
+
+- **Sentimento:** Negativo/Crítico Construtivo
+- **Indicadores:**
+  - Reconhecimento da realidade comercial
+  - Crítica moderada mas direta ("é exagero")
+  - Sugestão de melhoria ("precisa ajustar")
+  - Tom equilibrado e racional
+  - Uso de ditado popular para contextualizar
+- **Intensidade:** Moderada
+- **Aspectos criticados:** Percentual da taxa, modelo de negócio
+
+##### 3. Alberto Lazzarini Neto
+**Comentário:** "Gente ele arriscou a vida para buscar o corpo, ele merece uma recompensa"
+
+- **Sentimento:** Positivo/Empático
+- **Indicadores:**
+  - Reconhecimento do risco assumido pelo voluntário
+  - Defesa clara da pessoa envolvida
+  - Tom de solidariedade e justiça
+  - Empatia com a situação
+  - Senso de merecimento
+- **Intensidade:** Moderada a Alta
+- **Aspectos destacados:** Coragem do voluntário, justiça da recompensa
+
+##### 4. Maurício Pombar Trindade
+**Comentário:** "Como dizia minha avó: ficou pior a emenda do que o soneto ou o remendo do que o rasgo. Criaram expectativas e frustraram a todos. Uma atitude lamentável da empresa que, evidentemente, busca o lucro (nada errado nisso), mas que não foi devidamente transparente (como admitiu) e não soube lidar com as críticas, optando por devolver o dinheiro (obrigação) e, repita-se, frustrar a todos que se engajaram nesse processo. Quem perdeu mais? A própria empresa, que não soube retirar algo proveitoso com a experiência negativa. Não seria muito melhor se procurassem remediar o lapso, até por uma questão humanitária, repassando o valor integral da vaquinha ao abnegado voluntário? Decerto, deixariam de embolsar 100 k de imediato, mas ganhariam muito mais ao apagar os arranhões deixados na empresa em razão do alcance das redes sociais. Seguramente, sairiam melhor na foto. Nota para a equipe de marketing da VOOA = ZERO"
+
+- **Sentimento:** Muito Negativo/Analítico Crítico
+- **Indicadores:**
+  - Crítica estruturada e fundamentada
+  - Uso de ditados populares para enfatizar ("pior a emenda que o soneto")
+  - Análise detalhada de gestão de crise
+  - Reconhecimento parcial (busca por lucro é legítima)
+  - Crítica severa à transparência e gestão
+  - Sugestões estratégicas de melhoria
+  - Avaliação categórica negativa (nota zero)
+  - Tom professoral/consultivo
+- **Intensidade:** Muito Alta
+- **Aspectos criticados:** Gestão de crise, transparência, estratégia de marketing, gestão de expectativas
+
+#### Resumo da Análise
+
+##### Distribuição de Sentimentos
+- **Muito Negativos:** 2 comentários (50%)
+- **Negativos:** 1 comentário (25%)
+- **Positivos:** 1 comentário (25%)
+- **Neutros:** 0 comentários (0%)
+
+#### Características por Tipo de Comentário
+
+#### Comentários Negativos (75%)
+- **Críticas à empresa:** Política de preços, transparência, gestão
+- **Tons variados:** Indignação, análise crítica, sugestão construtiva
+- **Linguagem:** De moderada a extremamente crítica
+
+#### Comentários Positivos (25%)
+- **Foco no voluntário:** Reconhecimento do risco e mérito
+- **Tom empático:** Solidariedade com a pessoa envolvida
+
+#### Principais Temas Identificados
+
+1. **Política de Taxas:** Críticas ao percentual cobrado (20%)
+2. **Tratamento ao Voluntário:** Discussão sobre recompensa justa
+3. **Gestão Empresarial:** Críticas à transparência e gestão de crise
+4. **Aspecto Humanitário:** Reconhecimento do risco assumido pelo voluntário
+
+#### Palavras-chave por Sentimento
+
+**Negativas:**
+- Extremas: parasitas, absurda, lamentável, zero
+- Moderadas: exagero, ajustar, frustrar
+- Técnicas: transparente, gestão de crise, marketing
+
+**Positivas:**
+- arriscou, merece, recompensa, abnegado
+
+#### Níveis de Elaboração
+
+1. **Comentários Simples:** Diretos e emocionais (Júlio, Alberto)
+2. **Comentários Moderados:** Equilibrados com sugestões (Luiz Carlos)
+3. **Comentários Complexos:** Análise detalhada e estratégica (Maurício)
+
+### Conclusão
+
+A análise revela uma percepção predominantemente negativa (75%) da situação envolvendo a VOOA, com críticas focadas em três aspectos principais:
+
+1. **Política comercial** considerada abusiva
+2. **Gestão de crise** avaliada como inadequada  
+3. **Questões éticas** relacionadas ao tratamento do voluntário
+
+O único sentimento positivo identificado está direcionado ao voluntário, não à empresa, indicando uma clara separação entre a avaliação da pessoa física (positiva) e da pessoa jurídica (negativa).
+
+Os comentários variam de críticas construtivas com sugestões de melhoria até indignação total com linguagem ofensiva, sugerindo diferentes níveis de engajamento e expectativa dos usuários em relação à empresa.
+
+---
+
+*Análise realizada através de processamento de linguagem natural e identificação de padrões emocionais em texto.*
+
+# Conclusão
+
+Com isso, concluímos a exploração de alguns dos usos das ferramentas de IA generativa do mercado. Existem muitas mais e muitas mais irão surgir no futuro. Aqui procurei dar apenas uma rápida "pincelada" no tema.
+
+
