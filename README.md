@@ -270,7 +270,7 @@ Todos os comentários analisados apresentam sentimento predominantemente negativ
 
 *Análise realizada através de processamento de linguagem natural e identificação de padrões emocionais em texto.*
 
-## Caso 2 ([Brasileira não regatada em vulcão](https://noticias.uol.com.br/internacional/ultimas-noticias/2025/06/29/vaquinha-agam-rinjani-cancelada.htm)
+## Caso 2 ([Brasileira não resgatada em vulcão](https://noticias.uol.com.br/internacional/ultimas-noticias/2025/06/29/vaquinha-agam-rinjani-cancelada.htm))
 
 A IA leu a [imagem](https://github.com/msccobra/Explora-o-das-funcionalidades-da-IA/blob/Images/C2.png) para fazer a análise a seguir:
 
