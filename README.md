@@ -2,7 +2,7 @@
 
 Aqui, explorarei algumas das funcionalidades das IAs presente no mercado atualmente, e.g., criação de código, filtragem de conteúdo, criação de textos, entre outros. Usarei algumas das IAs disponíveis no mercado, GPT 4.1, Microsoft Copilot, Grok e Claude Sonnet 4. Nos títulos de cada seção desse artigo estarão citadas as IAs usadas.
 
-## Programa para previsão de tendeência de valor de criptomoedas (GPT 4.1, no VS Copilot)
+## Programa para previsão de tendência de valor de criptomoedas (GPT 4.1, no VS Copilot)
 
 Um pouco de contexto, eu já tinha um programa desse tipo, mas ele pegava as informacções pelo módulo yfinance (Yahoo! Finance), que tem instabilidades constantes e, muitas vezes, não é possível fazer o download dos dados de interesse.
 
